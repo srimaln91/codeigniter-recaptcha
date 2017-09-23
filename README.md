@@ -12,7 +12,7 @@ You need to copy config and library files into yout Codeiginter application.
 
 02. Use the library in your controllers as below  
 
-```
+```php
 <?php
 
 class Form extends CI_Controller {
